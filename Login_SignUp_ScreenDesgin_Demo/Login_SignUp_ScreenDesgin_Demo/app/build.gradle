@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.login_signup_screendesign_demo"
+        minSdkVersion 8
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.android.support:support-v4:22.2.1'
+    compile ('org.web3j:core:3.3.1-android')
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    //compile ('org.ethereum:geth:1.7.1')
+}
