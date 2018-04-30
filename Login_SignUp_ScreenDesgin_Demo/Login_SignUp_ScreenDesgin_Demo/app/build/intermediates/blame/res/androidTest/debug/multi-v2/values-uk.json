@@ -19,6 +19,23 @@
                         "endColumns": "109,101,105,85,107,117,105,106,97,107,105,108,123",
                         "endOffsets": "160,262,368,454,562,680,786,893,991,1099,1205,1314,1438"
                     }
+                },
+                {
+                    "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,117,164,306",
+                        "endColumns": "61,46,141,121",
+                        "endOffsets": "112,159,301,423"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1443,1505,1552,1694",
+                        "endColumns": "61,46,141,121",
+                        "endOffsets": "1500,1547,1689,1811"
+                    }
                 }
             ]
         }

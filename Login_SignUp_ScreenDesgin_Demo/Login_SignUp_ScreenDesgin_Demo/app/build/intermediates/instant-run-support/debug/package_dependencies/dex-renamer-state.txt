@@ -1,4 +1,4 @@
-#Thu Apr 19 11:26:02 ICT 2018
+#Mon Apr 30 11:15:03 ICT 2018
 base.0=/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dexMerger/debug/11
 path.1=classes2.dex
 renamed.1=classes2.dex

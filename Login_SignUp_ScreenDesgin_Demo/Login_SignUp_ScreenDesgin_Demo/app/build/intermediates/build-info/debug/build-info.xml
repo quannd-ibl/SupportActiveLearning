@@ -7,22 +7,22 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1524310114304"
+    timestamp="1525062652767"
     token="-3848305601269019486"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1428" />
+        duration="163" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="109" />
+        duration="63" />
     <task
         name="verifier"
-        duration="16" />
+        duration="9" />
 
     <artifact
         location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
@@ -30,19 +30,28 @@
 
     <build
         build-mode="FULL"
-        timestamp="1524309927917"
+        timestamp="1525061644115"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
+        <artifact
+            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/outputs/apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -54,16 +63,22 @@
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1525062579500"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/outputs/apk/debug/app-debug.apk"
@@ -72,7 +87,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1524310114304"
+        timestamp="1525062652767"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"

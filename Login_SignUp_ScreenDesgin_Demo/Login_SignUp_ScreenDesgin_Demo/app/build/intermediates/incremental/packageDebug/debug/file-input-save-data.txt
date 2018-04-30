@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 21 14:03:21 ICT 2018
+#Mon Apr 30 11:30:00 ICT 2018
 2.base=/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dexMerger/debug/13
 5.set=DEX
 0.path=classes.dex

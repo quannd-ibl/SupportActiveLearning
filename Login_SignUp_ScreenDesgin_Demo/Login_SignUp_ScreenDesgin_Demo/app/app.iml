@@ -123,8 +123,10 @@
     <orderEntry type="library" name="com.github.jnr:jnr-unixsocket:0.15@jar" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-databind:2.8.5@jar" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-posix:3.0.33@jar" level="project" />
+    <orderEntry type="library" name="com.google.zxing:core:3.2.1@jar" level="project" />
     <orderEntry type="library" name="org.web3j:rlp:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-ffi:2.1.2@jar" level="project" />
+    <orderEntry type="library" name="com.journeyapps:zxing-android-embedded-3.2.0" level="project" />
     <orderEntry type="library" name="com.github.jnr:jffi:1.2.14:native@jar" level="project" />
     <orderEntry type="library" name="com.squareup.okhttp3:okhttp:3.8.1@jar" level="project" />
     <orderEntry type="library" name="io.reactivex:rxjava:1.2.4@jar" level="project" />

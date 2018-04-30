@@ -17,6 +17,7 @@ import android.widget.ListView;
 public class Course_Frament extends Fragment implements View.OnClickListener {
     private static View view;
     private static Button all_course ;
+    private static Button check_in ;
     private static ListView listview ;
     private static FragmentManager fragmentManager;
     private final String arr[] = {"Active Learning","PPL"} ;
@@ -38,10 +39,12 @@ public class Course_Frament extends Fragment implements View.OnClickListener {
     private void initViews() {
         fragmentManager = getActivity().getSupportFragmentManager();
         all_course =(Button) view.findViewById(R.id.bt2) ;
+        check_in = (Button) view.findViewById(R.id.bt3);
         listview = (ListView) view.findViewById(R.id.listview) ;
     }
     private void setListeners() {
         all_course.setOnClickListener(this);
+        check_in.setOnClickListener(this);
     }
     public void onClick(View v) {
         switch (v.getId()) {
@@ -53,6 +56,14 @@ public class Course_Frament extends Fragment implements View.OnClickListener {
                         .replace(R.id.frameContainer,
                                 new MainWork_Fragment(),
                                 Utils.MainWork_Fragment).commit();
+                break ;
+            case R.id.bt3 :
+                fragmentManager
+                        .beginTransaction()
+                        .setCustomAnimations(R.anim.right_enter, R.anim.left_out)
+                        .replace(R.id.frameContainer,
+                                new Check_in(),
+                                Utils.Check_in).commit();
                 break ;
         }
     }

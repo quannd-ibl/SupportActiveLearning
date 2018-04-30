@@ -4,6 +4,23 @@
             "outputFile": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
+                    "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,117,167,300",
+                        "endColumns": "61,49,132,109",
+                        "endOffsets": "112,162,295,405"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1417,1479,1529,1662",
+                        "endColumns": "61,49,132,109",
+                        "endOffsets": "1474,1524,1657,1767"
+                    }
+                },
+                {
                     "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",

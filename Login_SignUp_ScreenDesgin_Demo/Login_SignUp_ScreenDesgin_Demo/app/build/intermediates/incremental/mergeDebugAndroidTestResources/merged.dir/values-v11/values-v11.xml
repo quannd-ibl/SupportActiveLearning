@@ -162,4 +162,6 @@
         <item name="android:actionModeCopyDrawable">?actionModeCopyDrawable</item>
         <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
     </style>
+    <style name="zxing_CaptureTheme" parent="android:Theme.Holo.NoActionBar.Fullscreen">
+  </style>
 </resources>

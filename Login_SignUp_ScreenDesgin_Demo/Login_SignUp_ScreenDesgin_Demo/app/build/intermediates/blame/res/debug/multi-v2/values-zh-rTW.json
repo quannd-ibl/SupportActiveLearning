@@ -4,6 +4,23 @@
             "outputFile": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
+                    "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,151,244",
+                        "endColumns": "48,46,92,69",
+                        "endOffsets": "99,146,239,309"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1322,1371,1418,1511",
+                        "endColumns": "48,46,92,69",
+                        "endOffsets": "1366,1413,1506,1576"
+                    }
+                },
+                {
                     "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
