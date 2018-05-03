@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -40,12 +40,12 @@
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -72,12 +72,12 @@
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_title_item.xml.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
@@ -96,32 +96,32 @@
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_close_item_material.xml.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/notification_media_cancel_action.xml"
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
@@ -192,12 +192,12 @@
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_abc_expanded_menu_layout.xml.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media.xml.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",

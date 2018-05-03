@@ -5,8 +5,15 @@ INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Logi
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:appcompat-v7:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/098f5f6b8c88fdf42e538504d194bb2e/AndroidManifest.xml:17:1-24:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/a98bcac5af54850d3a724ab56c97a4e6/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/652247bc9884eca0bf6a0e3e2ee94062/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:17:1-31:12
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:17:1-55:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:17:1-31:12
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-29:12
@@ -30,12 +37,28 @@ INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Logi
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/098f5f6b8c88fdf42e538504d194bb2e/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/098f5f6b8c88fdf42e538504d194bb2e/AndroidManifest.xml:20:5-43
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/a98bcac5af54850d3a724ab56c97a4e6/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/a98bcac5af54850d3a724ab56c97a4e6/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/652247bc9884eca0bf6a0e3e2ee94062/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/652247bc9884eca0bf6a0e3e2ee94062/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:21:5-23:54
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:19:5-43
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:21:5-23:58
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:7:5-9:41
 INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
@@ -52,14 +75,34 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:12:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:12:22-62
 application
 ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:13:5-27:19
 MERGED from [com.android.support:appcompat-v7:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/098f5f6b8c88fdf42e538504d194bb2e/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/098f5f6b8c88fdf42e538504d194bb2e/AndroidManifest.xml:22:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/a98bcac5af54850d3a724ab56c97a4e6/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/a98bcac5af54850d3a724ab56c97a4e6/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/652247bc9884eca0bf6a0e3e2ee94062/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/652247bc9884eca0bf6a0e3e2ee94062/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:29:5-20
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:45:5-53:19
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:16:9-41
 	android:icon
@@ -84,10 +127,22 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from /home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:24:27-74
-uses-permission#android.permission.CAMERA
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:21:5-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b01ad964e3ad60a5af5a065c1342219e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/439092def16e6ff906aa09f2c1830721/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e35ddc54d24c29800af746450f3fd10a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b45918a6c1fb43d061311914ac29b414/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4595181815e40d1a5cae3521be993c07/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:21:22-62
+		ADDED from [com.android.support:support-v4:25.3.1] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/16a04efcbb493c61dd7e16d991c33e68/AndroidManifest.xml:26:9-47
 uses-feature#android.hardware.camera
 ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.2.0.aar/5b3a642b3c937863a273dfbdc6aa7cca/AndroidManifest.xml:24:5-26:36
 	android:required

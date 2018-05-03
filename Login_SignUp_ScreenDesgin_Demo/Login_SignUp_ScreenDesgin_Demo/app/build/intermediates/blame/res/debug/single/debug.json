@@ -92,12 +92,12 @@
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout_checkin.xml.flat",
@@ -686,6 +686,10 @@
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
         "source": "/home/nguyendangquan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/6d3cf43fffae0f7c11479709fb493629/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/layout_scanqrcode.xml.flat",
+        "source": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/res/layout/scanqrcode.xml"
     },
     {
         "merged": "/home/nguyendangquan/Documents/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
