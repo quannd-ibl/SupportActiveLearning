@@ -11,4 +11,5 @@ public class Utils {
 	public static final String MainWork_Fragment = "MainWork_Fragment";
 	public static final String Course_Fragment = "Course_Frament";
 	public static final String Check_in = "Check_in";
+	public static final String scan_qrcode = "scan_qrcode";
 }

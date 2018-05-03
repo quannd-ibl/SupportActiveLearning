@@ -123,35 +123,42 @@
     <orderEntry type="library" name="com.github.jnr:jnr-unixsocket:0.15@jar" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-databind:2.8.5@jar" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-posix:3.0.33@jar" level="project" />
-    <orderEntry type="library" name="com.google.zxing:core:3.2.1@jar" level="project" />
     <orderEntry type="library" name="org.web3j:rlp:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-ffi:2.1.2@jar" level="project" />
+    <orderEntry type="library" name="com.android.support:support-core-ui-25.3.1" level="project" />
     <orderEntry type="library" name="com.journeyapps:zxing-android-embedded-3.2.0" level="project" />
+    <orderEntry type="library" name="com.android.support:support-compat-25.3.1" level="project" />
     <orderEntry type="library" name="com.github.jnr:jffi:1.2.14:native@jar" level="project" />
     <orderEntry type="library" name="com.squareup.okhttp3:okhttp:3.8.1@jar" level="project" />
     <orderEntry type="library" name="io.reactivex:rxjava:1.2.4@jar" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-enxio:0.14@jar" level="project" />
     <orderEntry type="library" name="com.madgag.spongycastle:prov:1.54.0.0@jar" level="project" />
     <orderEntry type="library" name="cz.msebera.android:httpclient:4.3.6@jar" level="project" />
+    <orderEntry type="library" name="com.android.support:support-core-utils-25.3.1" level="project" />
     <orderEntry type="library" name="com.squareup.okio:okio:1.13.0@jar" level="project" />
+    <orderEntry type="library" name="com.android.support:support-v4-25.3.1" level="project" />
     <orderEntry type="library" name="com.android.support:appcompat-v7-22.2.1" level="project" />
+    <orderEntry type="library" name="com.android.support:support-fragment-25.3.1" level="project" />
     <orderEntry type="library" name="org.slf4j:slf4j-api:1.7.25@jar" level="project" />
+    <orderEntry type="library" name="com.android.support:support-media-compat-25.3.1" level="project" />
     <orderEntry type="library" name="com.madgag.spongycastle:core:1.54.0.0@jar" level="project" />
     <orderEntry type="library" name="org.ow2.asm:asm-util:5.0.3@jar" level="project" />
     <orderEntry type="library" name="com.squareup.okhttp3:logging-interceptor:3.8.1@jar" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-constants:0.9.6@jar" level="project" />
     <orderEntry type="library" name="org.web3j:core:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-core:2.8.5@jar" level="project" />
-    <orderEntry type="library" name="com.android.support:support-annotations:22.2.1@jar" level="project" />
     <orderEntry type="library" name="org.ow2.asm:asm-analysis:5.0.3@jar" level="project" />
+    <orderEntry type="library" name="com.google.zxing:core:3.3.0@jar" level="project" />
     <orderEntry type="library" name="org.ow2.asm:asm-commons:5.0.3@jar" level="project" />
     <orderEntry type="library" name="org.ow2.asm:asm-tree:5.0.3@jar" level="project" />
-    <orderEntry type="library" name="com.android.support:support-v4-22.2.1" level="project" />
+    <orderEntry type="library" name="me.dm7.barcodescanner:core-1.9.8" level="project" />
     <orderEntry type="library" name="com.github.jnr:jnr-x86asm:1.0.2@jar" level="project" />
     <orderEntry type="library" name="org.web3j:crypto:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="org.web3j:tuples:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="org.web3j:utils:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="com.loopj.android:android-async-http:1.4.9@jar" level="project" />
+    <orderEntry type="library" name="me.dm7.barcodescanner:zxing-1.9.8" level="project" />
+    <orderEntry type="library" name="com.android.support:support-annotations:25.3.1@jar" level="project" />
     <orderEntry type="library" name="org.web3j:abi:3.3.1-android@jar" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-annotations:2.8.0@jar" level="project" />
   </component>
