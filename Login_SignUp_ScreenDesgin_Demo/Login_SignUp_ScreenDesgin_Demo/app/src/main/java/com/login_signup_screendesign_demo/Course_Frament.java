@@ -1,5 +1,6 @@
 package com.login_signup_screendesign_demo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -69,6 +70,9 @@ public class Course_Frament extends Fragment implements View.OnClickListener {
                                 Utils.Check_in).commit();
                 break ;
             case R.id.scan :
+                /*Intent intent = new Intent(getActivity(), MainActivity.class);
+                startActivity(intent);
+                getActivity().finish();*/
                 fragmentManager
                         .beginTransaction()
                         .setCustomAnimations(R.anim.right_enter, R.anim.left_out)

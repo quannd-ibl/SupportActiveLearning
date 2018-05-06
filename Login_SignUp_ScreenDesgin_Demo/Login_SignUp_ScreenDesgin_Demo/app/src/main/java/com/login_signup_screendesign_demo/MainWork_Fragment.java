@@ -31,6 +31,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.web3j.abi.FunctionEncoder;
+import org.web3j.abi.FunctionReturnDecoder;
 import org.web3j.abi.TypeReference;
 import org.web3j.abi.datatypes.Address;
 import org.web3j.abi.datatypes.Bool;
@@ -62,11 +63,15 @@ import java.net.InetAddress;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.UnknownHostException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.List;
 import java.util.concurrent.ExecutionException;
 
 import cz.msebera.android.httpclient.Header;
+
+import static java.util.Arrays.asList;
 
 
 /**
@@ -77,7 +82,9 @@ public class MainWork_Fragment extends Fragment implements View.OnClickListener 
     private static View view;
     private static CheckBox a,b,c,d ;
     private static Button submit ;
+    private static Button result ;
     private static TextView mTextView ;
+    private static TextView rTextView ;
     public static final int NETWORK_ID_MAIN = 1;
     public static final int NETWORK_ID_ROPSTEN = 3;
     public static String infuraAccessToken = "OeZsMeqktJHllYIpzsYI";
@@ -86,7 +93,7 @@ public class MainWork_Fragment extends Fragment implements View.OnClickListener 
     public static final BigInteger gasPrice = BigInteger.valueOf(450000000);
     public static final BigInteger gasLimit = BigInteger.valueOf(3300000);
     public static final BigInteger value = BigInteger.valueOf(0) ;
-    public static final String addressSmartContract = "0x4AFaab4a978890d7FDE4DDD1344206DA6B66783E" ;
+    public static final String addressSmartContract = "0x271ca06a08ade675745099eec6eb1ad60a0ef1f3" ;
     public static final String privateKey = "0xbd85535e41c5c53bd43e6193f7dc572d7bc97cd34bee97c1ac08c1ea88bc5905" ;
 
    // private static WebView wb
@@ -112,10 +119,13 @@ public class MainWork_Fragment extends Fragment implements View.OnClickListener 
         c = (CheckBox) view.findViewById(R.id.checkBox3);
         d = (CheckBox) view.findViewById(R.id.checkBox4);
         submit = (Button) view.findViewById(R.id.button) ;
+        result = (Button) view.findViewById(R.id.result) ;
         mTextView =  (TextView) view.findViewById(R.id.text);
+        rTextView =  (TextView) view.findViewById(R.id.textView5);
         edt = (EditText)  view.findViewById(R.id.edt) ;
     }
     private void setListeners() {
+        result.setOnClickListener(this);
         submit.setOnClickListener(this);
     }
 
@@ -145,16 +155,15 @@ public class MainWork_Fragment extends Fragment implements View.OnClickListener 
                                     answer = "D";
                                 }
                                 Type index = new Uint256(BigInteger.valueOf(0));
-                                Type address = new Address("0x5d265e1665Bf8227bB3FB1882AC39a964c88685C");
+                                Type address = new Address("0xEBc3D75CCB8325Cb016af7d1A46e0458A48d7a44");
                                 Type content = new Utf8String(answer) ;
-                                Function function = new Function(
+                                Function _answer = new Function(
                                         "answer",  // function we're calling
-                                        Arrays.asList(address,index,content),
+                                        asList(address,index,content),
                                         Collections.<TypeReference<?>>emptyList()
                                 );
 
-                                String encodedFunction = FunctionEncoder.encode(function) ;
-
+                                String encodedFunction = FunctionEncoder.encode(_answer) ;
                                 RawTransaction rawTransaction = RawTransaction.createTransaction(BigInteger.valueOf(nonce), gasPrice,gasLimit , addressSmartContract, value,encodedFunction);
 
                                 Credentials credentials = Credentials.create(privateKey) ;
@@ -187,11 +196,60 @@ public class MainWork_Fragment extends Fragment implements View.OnClickListener 
                     public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
 
                     }
+
                 });
-
-
                 //String clientVersion = web3ClientVersion.getWeb3ClientVersion();
+            case  R.id.result :
+                Type index = new Uint256(BigInteger.valueOf(0));
+                Type address = new Address("0xEBc3D75CCB8325Cb016af7d1A46e0458A48d7a44");
+                Function _result = new Function(
+                        "result",  // function we're calling
+                        asList(address,index),
+                        Arrays.<TypeReference<?>>asList(new TypeReference<Uint256>() {},
+                                new TypeReference<Utf8String>() { },
+                                new TypeReference<Bool>() {}
+                        )
+                );
+                String encodeResult = FunctionEncoder.encode(_result) ;
+                String url1 = "https://api-ropsten.etherscan.io/api?module=proxy&action=eth_call&to="+addressSmartContract+"&data="+encodeResult+"&tag=latest&apikey=K7BEBSHYDRFJJ2J8NSPYNWHD1B7GGKVEKD" ;
+                AsyncHttpClient client1 = new AsyncHttpClient();
+                client1.get(url1, new AsyncHttpResponseHandler() {
+                    @Override
+                    public void onSuccess(int statusCode, Header[] headers, byte[] responseBody) {
+                        if(responseBody != null) {
+                            try {
 
+                                JSONObject result = new JSONObject(new String(responseBody));
+                                String inputData = result.getString("result");
+                                Function _result = new Function(
+                                        "result",  // function we're calling
+                                        Arrays.<Type>asList(),
+                                        Arrays.<TypeReference<?>>asList(
+                                                new TypeReference<Address>() {},
+                                                new TypeReference<Uint256>() {},
+                                                new TypeReference<Bool>() {}
+                                        )
+                                );
+
+                                List s =  FunctionReturnDecoder.decode(inputData,_result.getOutputParameters());
+                                boolean res = (s.get(2).hashCode() != 0)  ;
+                                rTextView.setText("Address: "+s.get(0).toString()+"  "+
+                                        "index :"+Integer.toString(s.get(1).hashCode())+"\n"+
+                                       "result: "+ res);
+
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+
+
+                        }
+                    }
+
+                    @Override
+                    public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
+
+                    }
+                });
         }
     }
 
